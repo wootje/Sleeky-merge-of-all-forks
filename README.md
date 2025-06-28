@@ -39,4 +39,7 @@ This code is released under the [MIT License](https://github.com/Flynntes/Sleeky
 https://urlshrt.eu/buycupofcoffee
 <br>
 <br>
+<img src="https://urlshrt.eu/donateqr"></img>
+<br>
+<br>
 <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/wootje/Sleeky-merge-of-all-forks/total">
