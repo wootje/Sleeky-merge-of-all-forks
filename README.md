@@ -33,5 +33,10 @@ Sleeky follows the principles of [Semantic Versioning](http://semver.org/).
 
 ## License
 This code is released under the [MIT License](https://github.com/Flynntes/Sleeky/blob/master/LICENSE.md)
-
+<br>
+<br>
+<b>Buy me a cup of coffee!</b> 🙂👍 <br>
+https://urlshrt.eu/buycupofcoffee
+<br>
+<br>
 <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/wootje/Sleeky-merge-of-all-forks/total">
